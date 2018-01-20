@@ -11,14 +11,14 @@ A Developer OS
 
     Add a Terminal for editing
 
-    Add CSS, 
+    Add CSS
     
-    HTML,
+    HTML
     
-    JS,
+    JS
     
-    PYTHON,
+    PYTHON
     
-    JAVA,
+    JAVA
     
     and a custom terminal language
