@@ -1,7 +1,7 @@
 # DorsOS #
 
 ----------
-A Developer OS
+**A Developer OS**
 
     To Do:
     
@@ -11,14 +11,14 @@ A Developer OS
 
     Add a Terminal for editing
 
-    Add CSS
+	Add CSS
+	
+	Add HTML
     
-    HTML
+    JavaScript
     
-    JS
+    Python
     
-    PYTHON
-    
-    JAVA
+    Java
     
     and a custom terminal language
