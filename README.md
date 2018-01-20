@@ -10,3 +10,5 @@ A Developer OS
     Add NotePad++
 
     Add a Terminal for editing
+
+    Add CSS HTML JS PYTHON JAVA CUSTOMTERMLANG
