@@ -11,4 +11,9 @@ A Developer OS
 
     Add a Terminal for editing
 
-    Add CSS HTML JS PYTHON JAVA CUSTOMTERMLANG
+    Add CSS, 
+    HTML,
+    JS,
+    PYTHON,
+    JAVA,
+    and a custom terminal language
